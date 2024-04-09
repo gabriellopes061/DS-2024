@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:11:31.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M25Iu7JM2YL_C6TkTaVD" version="24.0.7" type="device">
+  <diagram name="Página-1" id="Oi_V1ZarJpdv3MoIeATM">
+    <mxGraphModel dx="1877" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Windows 10" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="54" width="104" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="HOME&#xa;Possui um menu Iniciar personalizável.Inclui o Windows Defender e o firewall do Windows para segurança.Oferece inicialização rápida com recursos como Hiperboot e InstantGo.Suporta TPM (Trusted Platform Module).Conta com funções para economia de bateria.Integra a assistente pessoal Cortana, com sugestões proativas, lembretes e pesquisas na web e no dispositivo.Não inclui recursos avançados como Windows Hello, áreas de trabalho virtuais ou ajuste de aplicativos em telas diferentes." style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="83" width="200" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="PRO(além dos recursos do home)&#xa;&#xa; Reconhecimento por biometria (impressão digital, reconhecimento facial e de íris) e segurança biométrica de nível empresarial. Permite organizar aplicativos em diferentes áreas de trabalho. Facilita a multitarefa. Transição entre modo PC e tablet.&#xa;Ingresso em domínio;&#xa;- Gerenciamento de política de grupo;&#xa;- Internet Explorer em Modo Empresarial (IMIE);&#xa;- Assigned Access;&#xa;- Área de trabalho remota;&#xa;- Hyper-V Cliente;&#xa;- Fácil atualização da versão Pro para a Enterprise;&#xa;- Acesso ao Active Directory do Azure com logon único em aplicativos hospedados na nuvem;&#xa;- Adição de roaming de estado do usuário com o Azure Active Directory;&#xa;- Windows Store for Business;&#xa;- Provisionamento dinâmico;&#xa;- Proteção de dados corporativos;&#xa;- BitLocker;&#xa;- Inicialização confiável;&#xa;- Acesso condicional;&#xa;- Windows Update for Business&#xa;além da possibilidade de mais usuários que o Windows home" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="130" y="83" width="450" height="367" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2452756230148721;exitY=1.0121212583599668;entryX=0.497993845998505;entryY=0.012121258359966856;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7484744356727782;exitY=1.0121212583599668;entryX=0.49398153799551503;entryY=0.012121258359966856;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
