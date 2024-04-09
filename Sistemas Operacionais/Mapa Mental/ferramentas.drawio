@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:48:03.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="P34Dgyffl3DmFMwktrMk" version="24.0.7" type="device">
+  <diagram name="Página-1" id="Nw7cYVP5KbOM1r0xRWTF">
+    <mxGraphModel dx="1877" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="explica" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry width="66" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KDFLab0_P6mV_ZJ7wTyu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="620" width="2360" height="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="KDFLab0_P6mV_ZJ7wTyu-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;teclado virtual&lt;/h1&gt;&lt;div&gt;&lt;ul style=&quot;display: flex; flex-direction: column; gap: 4px; margin: 12px 0px 0px; padding-inline-start: 24px; color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;O teclado virtual é um&amp;nbsp;&lt;strong&gt;software&lt;/strong&gt;&amp;nbsp;que simula um teclado convencional na tela do computador. Ele exibe todas as teclas padrão e pode ser usado para digitar texto sem a necessidade de um teclado físico.&lt;/li&gt;&lt;li&gt;Para abrir o&amp;nbsp;&lt;strong&gt;Teclado Virtual&lt;/strong&gt;&amp;nbsp;na tela de entrada, selecione o botão&amp;nbsp;&lt;strong&gt;Acessibilidade&lt;/strong&gt;&amp;nbsp;no canto inferior direito da tela de entrada e escolha&amp;nbsp;&lt;strong&gt;Teclado na Tela&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="650" width="440" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
